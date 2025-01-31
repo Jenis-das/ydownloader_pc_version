@@ -6,8 +6,6 @@ A desktop application built with Python and Tkinter that allows users to downloa
 Many people want to download videos from third-party websites, but often face issues with malicious software or viruses. This tool provides a safe way to download YouTube videos without encountering such problems.
 
 ## To Download 
-[Download the latest version here](https://github.com/Jenis-das/ydownloader_pc_version/blob/main/src/dist/app.exe) 
-
 <a href="https://raw.githubusercontent.com/Jenis-das/ydownloader_pc_version/main/src/dist/app.exe" download>
     <button>Download app.exe</button>
 </a>
